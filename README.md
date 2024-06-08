@@ -18,7 +18,7 @@ Nous avons donc choisi de faire un jeu sur la 2e Guerre Mondiale.
 
 En espérant que le projet vous plaise.
 
-### Contrainte 
+### Contrainte :
 
 Pour faire ce jeu, nous étions obligé d'utiliser un système de fichier .txt, de pouvoir les lires, et de pouvoir écrire dedans.
 
