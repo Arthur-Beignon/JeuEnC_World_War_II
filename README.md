@@ -10,11 +10,19 @@ Auteur : BEIGNON Arthur & COTAR Clément (TPB - BUT1)
 
 ## Le but du projet 
 
+### Explication du projet :
+
 Le projet a pour but de coder un jeu en langage C, principalement un jeu à choix, qui peut se jouer soit en français, soit en anglais.
 
 Nous avons donc choisi de faire un jeu sur la 2e Guerre Mondiale. 
 
 En espérant que le projet vous plaise.
+
+### Contrainte 
+
+Pour faire ce jeu, nous étions obligé d'utiliser un système de fichier .txt, de pouvoir les lires, et de pouvoir écrire dedans.
+
+Le système de langue était également obligatoire.
 
 ## Comment ça marche
 
